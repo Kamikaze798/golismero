@@ -1,5 +1,5 @@
 # golismero
-**NOTE**:This is not my wirk it is work of [MarioVilas](https://github.com/MarioVilas) ,we just try to covert it to py3 it took 3 weaks to fix it ,we hope you enjoy it. 
+**NOTE**:This is not my work it is work of [MarioVilas](https://github.com/MarioVilas) ,we just try to covert it to py3 it took 3 weaks to fix it ,we hope you enjoy it. 
 
 
 What's GoLismero?
